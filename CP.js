@@ -1,4 +1,5 @@
- function="char" '(":Platform"); /("Windows")
+ char a='4';
+function="char" '(":Platform"); /("Windows")
  function="char" '(":Platform"); /("Android")
 function="char" '(":Platform"); /("Xbox One")
  function="char" '(":Platform"); /("Nintendo Switch")
