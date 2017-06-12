@@ -11,3 +11,4 @@ function /("packagename"); ("xex"); ("Minecraft Xbox One Edition")
 function /("packagename")  ("ns"); ("Nintendo Switch")
 {
  {
+  function :("Varable"); var("1-1000"); ;("server");
